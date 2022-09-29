@@ -2,6 +2,8 @@
 
 namespace Game
 {
+	// gitのテストのためコメントを追加
+
 	// ウインドウモード設定
 	constexpr bool kWindowMode = true;
 	// ウインドウ名
